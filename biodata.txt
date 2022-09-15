@@ -3,3 +3,4 @@ nama:sunu pinasti
 kelas:12.3A.04
 prodi:Sistem Informasi
 alamat:bekasi
+no.hp:088216604613
