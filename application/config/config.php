@@ -35,7 +35,7 @@ $config['base_url'] = 'https://localhost/12.3A.04_WP2';
 | variable so that it is blank.
 |
 */
-$config['index_page'] = 'index.php';
+$config['index_page'] = '';
 
 /*
 |--------------------------------------------------------------------------
